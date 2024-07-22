@@ -16,6 +16,6 @@ The Normalized Data App is designed to efficiently manage and retrieve data from
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/normalized-data-app.git
+   git clone git@github.com:ElenaSoshina/Normalize_data.git
 2. Start code
    node app
